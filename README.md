@@ -3,9 +3,9 @@ A list of useful tools for full stack development
 
 
 ## Create random UUID
-npm: npm install crypto
-yarn: yarn add crypto
-usage: crypto.randomUUID()
+npm: npm install crypto <br />
+yarn: yarn add crypto <br />
+usage: crypto.randomUUID() <br />
 source: 
 - https://www.npmjs.com/package/crypto
 - https://yarnpkg.com/package/crypto
